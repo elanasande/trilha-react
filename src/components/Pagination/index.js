@@ -1,4 +1,4 @@
-export function Pagination({ page }) {
+export default function Pagination({ page }) {
   return (
     <div>
       <button>{"<"}</button>
